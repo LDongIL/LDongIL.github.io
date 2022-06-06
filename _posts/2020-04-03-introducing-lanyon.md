@@ -11,7 +11,7 @@ title: About Dong IL Lee
         Frequency synthesizer, timing and clock, metrology and etc.
    + Laser source stabilization based on optical high-finesse cavity
    + Optical time/frequency transfer
-   + Free-space optical communication (FSOC) link system <br/> 
+   + Free-space optical(FSO) link system <br/> 
   
 <hr/>
 
@@ -49,7 +49,7 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
    * Total GPA: 3.99/4.5
    * Undergraduate Researcher Funding Scholarship
    * Best Graduate Paper Award 
-   * Advisor: __Prof.__ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
+   * Advisor: _Prof._ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
   
   <br/><br/>
   
