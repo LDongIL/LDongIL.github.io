@@ -11,12 +11,13 @@ title: About Dong IL Lee
         > Frequency synthesizer, timing and clock, metrology and etc.
    + Laser source stabilization based on optical high-finesse cavity
    + Optical time/frequency transfer
-   + Free-space optical communication (FSOC) link system
----
+   + Free-space optical communication (FSOC) link system <br/> 
+  
+<hr/>
 
 ### AFFILIATION
 
-* Research Associate <br/>
+* __Research Associate__ <br/>
 Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
   * Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) <br/>
   * Main Research: <br/>
@@ -27,13 +28,13 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
 
 
 ### EDUCATION
- * Masters of Mechanical Engineering <br/> 
+ * __Masters of Mechanical Engineering__ <br/> 
     * Korea Advanced Institute of Science & Technology. (KAIST), South Korea (2020-2022) <br/>
     * Thesis: Precision Control of Propagating Laser Beam Over Long Free-space Paths for Realizing Phase-coherent Optical Link <br/>
     * Total GPA: 3.86/4.3 <br/>
     * Advisor: _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) <br/>
 
- * Bachelor of Mechanical Engineering 
+ * __Bachelor of Mechanical Engineering__ 
    * Sungkyunkwan University. (SKKU), South Korea (2014-2020)
    * Thesis: Electrical Properties Measurements of Thin Films using Electrical Impedance Tomography
    * Total GPA: 3.99/4.5
@@ -41,7 +42,7 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
    * Best Graduate Paper Award 
    * Advisor: __Prof.__ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
   
-  ### HONORS & REWARDS
+### HONORS & REWARDS
 * __Best Graduate Paper__  <br/>
      School of Mechanical Engineering, Sungkyunkwan University Mechanical Engineering department, Korea (2022)
      
