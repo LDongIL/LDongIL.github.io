@@ -17,8 +17,8 @@ title: About Dong IL Lee
 
 ### AFFILIATION
 
-* __Research Associate__ <br/>
-Korea Advanced Institute of Science & Technology. (KAIST), South Korea 
+* __Research Associate__ <br/> 
+Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
   + Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com)
   + Main Research: 
       + 1.8 km free-space phase-coherent optical link system design
@@ -34,7 +34,7 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea
     * Total GPA: 3.86/4.3 <br/>
     * Advisor: _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) <br/>
 
- * __Bachelor of Mechanical Engineering__ 
+ * __Bachelor of Mechanical Engineering__ <br/> 
    * Sungkyunkwan University. (SKKU), South Korea (2014-2020)
    * Thesis: Electrical Properties Measurements of Thin Films using Electrical Impedance Tomography
    * Total GPA: 3.99/4.5
