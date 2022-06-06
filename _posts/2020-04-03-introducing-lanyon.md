@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: About Dong IL Lee
+
 ---
 
+I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both Prof. Seung-Woo Kim and Prof. Young-Jin Kim.
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
