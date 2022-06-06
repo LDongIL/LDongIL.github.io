@@ -41,7 +41,7 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
     * Total GPA: 3.86/4.3 <br/>
     * Advisor: _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) 
     
-<br/><br/>
+<br/>
 
 
  * __Bachelor of Mechanical Engineering__ <br/>
@@ -50,8 +50,8 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
   
    * Thesis: Electrical Properties Measurements of Thin Films using Electrical Impedance Tomography
    * Total GPA: 3.99/4.5
-   * Undergraduate Researcher Funding Scholarship
-   * Best Graduate Paper Award 
+   * <U>Undergraduate Researcher Funding Scholarship</U>
+   * <U>Best Graduate Paper Award</U>
    * Advisor: _Prof._ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
   
   <br/><br/>
