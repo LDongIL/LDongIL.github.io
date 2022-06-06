@@ -8,7 +8,7 @@ title: About Dong IL Lee
 
 * My current research interests are: 
    + Generation of ultra-stable light sources for various applications:<br/>
-        > Frequency synthesizer, timing and clock, metrology and etc.
+        Frequency synthesizer, timing and clock, metrology and etc.
    + Laser source stabilization based on optical high-finesse cavity
    + Optical time/frequency transfer
    + Free-space optical communication (FSOC) link system <br/> 
