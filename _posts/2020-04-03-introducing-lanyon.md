@@ -4,8 +4,14 @@ title: About Dong IL Lee
 
 ---
 
-I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both Prof. Seung-Woo Kim and Prof. Young-Jin Kim.
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+* I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both Prof. [Seung-Woo Kim](http://jekyllrb.com) and Prof. [Young-Jin Kim].
+
+* My current research areas are: 
+* Generation of ultra-stable light sources for various applications: 
+		       Frequency synthesizer, timing and clock, metrology and etc.
+* Laser source stabilization based on optical high-finesse cavity
+* Optical time/frequency transfer
+* Free-space optical communication (FSOC) link system
 
 ### Built on Poole
 
