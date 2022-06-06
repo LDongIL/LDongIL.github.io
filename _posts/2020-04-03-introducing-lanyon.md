@@ -34,24 +34,17 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
 ### EDUCATION
 
  * __Masters of Mechanical Engineering__ <br/>
- Korea Advanced Institute of Science & Technology. (KAIST), South Korea (2020-2022) 
- 
- 
+ Korea Advanced Institute of Science & Technology. (KAIST), South Korea (2020-2022) <br/>
     * Thesis: Precision Control of Propagating Laser Beam Over Long Free-space Paths for Realizing Phase-coherent Optical Link <br/>
     * Total GPA: 3.86/4.3 <br/>
     * Advisor: _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) 
-    
-<br/>
-
-
+    <br/><br/><br/>
  * __Bachelor of Mechanical Engineering__ <br/>
-  Sungkyunkwan University. (SKKU), South Korea (2014-2020)
-  
-  
+  Sungkyunkwan University. (SKKU), South Korea (2014-2020) <br/>
    * Thesis: Electrical Properties Measurements of Thin Films using Electrical Impedance Tomography
    * Total GPA: 3.99/4.5
-   * <U>Undergraduate Researcher Funding Scholarship</U>
-   * <U>Best Graduate Paper Award</U>
+   * <u>Undergraduate Researcher Funding Scholarship</u>
+   * <u>Best Graduate Paper Award</u>
    * Advisor: _Prof._ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
   
   <br/><br/>
