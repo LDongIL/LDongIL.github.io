@@ -19,12 +19,12 @@ title: About Dong IL Lee
 
 * __Research Associate__ <br/>
 Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
-  * Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) <br/>
-  * Main Research: <br/>
-      * 1.8 km free-space phase-coherent optical link system design
-      * Frequency comb referenced narrow-linewidth laser generation
-      * Second-harmonic generation for optical frequency transfer
-      * Precise beam position/wavefront control system
+  + Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com) <br/>
+  + Main Research: <br/>
+      + 1.8 km free-space phase-coherent optical link system design
+      + Frequency comb referenced narrow-linewidth laser generation
+      + Second-harmonic generation for optical frequency transfer
+      + Precise beam position/wavefront control system
 
 
 ### EDUCATION
