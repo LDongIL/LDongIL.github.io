@@ -10,10 +10,8 @@ title: Research Projects
 <br/><br/>
 
 <p align="center">
- <img src = "./1.png">
-</p> <br/>
+ <img src = "./1.png"> </p> 
 
-<center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>  
 
 
 <br/><br/><br/><br/>
