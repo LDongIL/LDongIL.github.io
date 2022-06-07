@@ -24,7 +24,7 @@ Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
   + Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com)
   + Main Research: 
       + 1.8 km free-space phase-coherent optical link system design
-      + Frequency comb referenced narrow-linewidth laser generation
+      + Ultra-stable light source generation referenced to optical frequency comb  
       + Second-harmonic generation for optical frequency transfer
       + Precise beam position/wavefront control system
 <br/>
