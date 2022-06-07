@@ -11,7 +11,6 @@ title: Research Projects
 
 <p align="center">
 <img src = "./1.png">
-<center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>
 </p> 
 
 <br/><br/>
@@ -24,7 +23,7 @@ title: Research Projects
 <center>Molecular absorption spectroscopy as well as the microwave generation based on transferred optical frequency standard</center>
 </p>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research above are being presented in conference paper as an co-author, while is under going review process in Nat. Light journal paper
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, while is under going review process in Nat. Light journal paper
 
 
 
