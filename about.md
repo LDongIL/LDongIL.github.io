@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: post
+title: Research Project
 ---
 
 <p class="message">
