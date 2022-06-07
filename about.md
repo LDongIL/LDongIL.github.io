@@ -10,19 +10,19 @@ title: Research Projects
 <br/>
 
 <p align="center">
- <img src = "./1.png"> </p> 
-
+ <img src = "./1.png">
 <center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>
+</p> 
+
 <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The usefulness of the remote comb-to-comb stabilization proposed in this research was corroborated by implementing molecular absorption spectroscopy and microwave generation by utilizing slave comb. Our remote comb-to-comb stabilization is intended to expedite diverse long-distance ground-to-ground or ground-to-satellite applications; as demonstrated here for broad-band molecule spectroscopy over a 6 THz bandwidth as well as ultra-stable microwaves generation with phase noise of -80 dBc Hz–1 at 1 Hz.
 
 <br/><br/>
 
 <p align="center">
- <img src = "./2.png"> </p>
+ <img src = "./2.png"><center>Molecular absorption spectroscopy as well as the microwave generation based on transferred optical frequency standard</center>
+ </p>
  
-<center>Molecular absorption spectroscopy as well as the microwave generation based on transferred optical frequency standard</center>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research above are being presented in conference paper as an co-author, while is under going review process in Nat. Light journal paper
 
 
