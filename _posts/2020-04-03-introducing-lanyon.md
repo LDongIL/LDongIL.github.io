@@ -11,7 +11,7 @@ title: About Dong IL Lee
         <dd>Frequency synthesizer, timing and clock, metrology and etc.</dd>
    + Laser source stabilization based on optical high-finesse cavity
    + Optical time/frequency transfer
-   + Free-space optical(FSO) link system <br/> 
+   + Free-space optical link (FSOL) system <br/> 
   
 <hr/>
 
