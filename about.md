@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Project
+title: Research Projects
 ---
 
 
@@ -11,11 +11,12 @@ title: Research Project
 
 <p align="center">
  <img src = "./1.png">
-</p>
+</p> 
+
 <center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>  
 
 
-
+<br/><br/><br/><br/>
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
