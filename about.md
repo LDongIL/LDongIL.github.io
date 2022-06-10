@@ -9,20 +9,19 @@ title: Research Projects
 
 
 ![comb-to-comb](https://ldongil.github.io/assets/map.png)
-
-> Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea
-
+<center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>
+<br/><br/>
 
 &nbsp;&nbsp;The usefulness of the remote comb-to-comb stabilization proposed in this research was corroborated by implementing molecular absorption spectroscopy and microwave generation by utilizing slave comb. Our remote comb-to-comb stabilization is intended to expedite diverse long-distance ground-to-ground or ground-to-satellite applications; as demonstrated here for broad-band molecule spectroscopy over a 6 THz bandwidth as well as ultra-stable microwaves generation with phase noise of -80 dBc Hz–1 at 1 Hz.
 
 ![frequency_graph](https://ldongil.github.io/assets/frequency.png)
+<center>Single sideband (SSB) phase noise spectra of frequencies; Applications based on stabilized remote comb: Molecular absorption spectroscopy, Microwave generation </center>
+<br/><br/>
+
+&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in _**LIGHT: SCIENCE & APPLICATIONS**_
 
 
-
-> Molecular absorption spectroscopy as well as the microwave generation based on transferred optical frequency standard
-
-&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, while is under going review process in Nat. Light journal paper
-
+<br/><br/><br/><br/><br/><br/>
 &nbsp;&nbsp;Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 
 &nbsp;In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
