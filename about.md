@@ -8,7 +8,7 @@ title: Research Projects
 &nbsp;&nbsp;Stabilizing a frequency comb to an ultra-stable optical frequency reference requires a multitude of optoelectronic peripherals that have to operate under strict ambient control. We propose an utmost case of frequency comb-to-comb stabilization made through a 1.3 km free-space optical (FSO) link by coherent transfer of two separate comb lines along with a feedback suppression control of atmospheric phase noise. The FSO link offers a transfer stability of 1.7×10–15 at 0.1 s averaging, while transporting the mater comb’s stability of 1.2×10–15 at 1.0 s over the entire spectrum of the slave comb.
 
 
-![comb-to-comb](https://ldongil.github.io/assets/map.png)
+![comb-to-comb](https://ldongil.github.io/assets/map2.png)
 <center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>
 <br/><br/>
 
@@ -18,7 +18,7 @@ title: Research Projects
 <center>Single sideband (SSB) phase noise spectra of frequencies; Applications based on stabilized remote comb: Molecular absorption spectroscopy, Microwave generation </center>
 <br/><br/>
 
-&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in _**LIGHT: SCIENCE & APPLICATIONS**_
+&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in  _**LIGHT: SCIENCE & APPLICATIONS**_
 
 
 <br/><br/><br/><br/><br/><br/>
