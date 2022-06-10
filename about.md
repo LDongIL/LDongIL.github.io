@@ -3,7 +3,7 @@ layout: page
 title: Research Projects
 ---
 
-### 1. Comb-to-comb stabilization over 1.3-km free-space atmospheric optical link
+### **1. Comb-to-comb stabilization over 1.3-km free-space atmospheric optical link**
 
 &nbsp;&nbsp;Stabilizing a frequency comb to an ultra-stable optical frequency reference requires a multitude of optoelectronic peripherals that have to operate under strict ambient control. We propose an utmost case of frequency comb-to-comb stabilization made through a 1.3 km free-space optical (FSO) link by coherent transfer of two separate comb lines along with a feedback suppression control of atmospheric phase noise. The FSO link offers a transfer stability of 1.7×10–15 at 0.1 s averaging, while transporting the mater comb’s stability of 1.2×10–15 at 1.0 s over the entire spectrum of the slave comb.
 
@@ -20,6 +20,20 @@ title: Research Projects
 
 &nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in  _**LIGHT: SCIENCE & APPLICATIONS**_
 
+
+### **2. Precision spatio-temporal control of propagating laser beam for phase-coherent dissemination of optical signal**
+
+&nbsp;&nbsp;Maintaining a stable optical beam path and quality is essential for photonic applications such as metrology, timing and clock, and telecommunication. While seamless and high-quality connectivity determines the performance of the achievement, naturally propagating optical beam inevitably encounters spatial and temporal noises. Here, we propose a combined feedback system based on three different techniques: pointing, acquisition, tracking (PAT), wavefront compensation, and phase noise compensation. Acquiring a stable beam position with the PAT system, beam quality is enhanced with the feedback systems followed. The combined feedback system is evaluated under imitated atmospheric turbulent conditions, verifying its performance even under harsh environments. 
+
+![Feedback](https://ldongil.github.io/assets/feedback.png)
+<center>Analysis of spatiotemporal noise induced by free-space and feedback systems for each disturbance</center>
+<br/>
+
+&nbsp;&nbsp;Randomly fluctuated beam spot is accumulated within Ø < 55 μm, 99.5% diminished fluctuation. Furthermore, the Zernike coefficient of wavefront compensated up to 96% of distortion simultaneously. With such result, we verified our optical feedback system can be utilized to facilitate diverse photonic applications from micro to macro scale
+
+![Result](https://ldongil.github.io/assets/result.png)
+<center>Compensated environmental disturbance. pointing error (Left), Wavefront distortion (Right)</center>
+<br/>
 
 <br/><br/><br/><br/><br/><br/>
 &nbsp;&nbsp;Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
