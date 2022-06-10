@@ -20,6 +20,9 @@ title: Research Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in _**LIGHT: SCIENCE & APPLICATIONS**_
 
+<br/>
+<br/>
+<br/>
 
 ### **2. Precision spatio-temporal control of propagating laser beam for phase-coherent dissemination of optical signal**
 
