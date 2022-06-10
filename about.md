@@ -10,13 +10,13 @@ title: Research Projects
 
 ![comb-to-comb](https://ldongil.github.io/assets/map2.png)
 <center>Comb-to-comb stabilization link system based on transferred frequency standard. Located in KAIST, Daejeon, South Korea</center>
-<br/><br/>
+<br/>
 
 &nbsp;&nbsp;The usefulness of the remote comb-to-comb stabilization proposed in this research was corroborated by implementing molecular absorption spectroscopy and microwave generation by utilizing slave comb. Our remote comb-to-comb stabilization is intended to expedite diverse long-distance ground-to-ground or ground-to-satellite applications; as demonstrated here for broad-band molecule spectroscopy over a 6 THz bandwidth as well as ultra-stable microwaves generation with phase noise of -80 dBc Hz–1 at 1 Hz.
 
 ![frequency_graph](https://ldongil.github.io/assets/frequency.png)
 <center>Single sideband (SSB) phase noise spectra of frequencies; Applications based on stabilized remote comb: Molecular absorption spectroscopy, Microwave generation </center>
-<br/><br/>
+<br/>
 
 &nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in  _**LIGHT: SCIENCE & APPLICATIONS**_
 
