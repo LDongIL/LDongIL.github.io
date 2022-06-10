@@ -31,7 +31,7 @@ title: Research Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Randomly fluctuated beam spot is accumulated within Ø < 55 μm, 99.5% diminished fluctuation. Furthermore, the Zernike coefficient of wavefront compensated up to 96% of distortion simultaneously. With such result, we verified our optical feedback system can be utilized to facilitate diverse photonic applications from micro to macro scale
 
-[Result](https://LDongIL.github.io/assets/result.png)
+![Result](https://LDongIL.github.io/assets/result.png)
 <center>Compensated environmental disturbance. pointing error (Left), Wavefront distortion (Right)</center>
 <br/>
 
