@@ -35,29 +35,6 @@ title: Research Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Randomly fluctuated beam spot is accumulated within Ø < 55 μm, 99.5% diminished fluctuation. Furthermore, the Zernike coefficient of wavefront compensated up to 96% of distortion simultaneously. With such result, we verified our optical feedback system can be utilized to facilitate diverse photonic applications from micro to macro scale
 
 ![Result](https://LDongIL.github.io/assets/result.png)
-<center>Compensated environmental disturbance. pointing error (Left), Wavefront distortion (Right)</center>
+<center>Compensated environmental disturbance. pointing error comepensation(Left), Wavefront distortion compensation(Right)</center>
 <br/>
 
-<br/><br/><br/><br/><br/><br/>
-&nbsp;&nbsp;Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-
-&nbsp;In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
