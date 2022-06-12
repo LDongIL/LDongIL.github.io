@@ -1,0 +1,4 @@
+---
+layout:
+title: Example content
+---
