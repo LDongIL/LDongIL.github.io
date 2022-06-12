@@ -1,9 +1,10 @@
 ---
-layout:
+layout:post
 title: About Dong IL Lee
 
 ---
 
+![intro](https://ldongil.github.io/assets/intro.png)
 * I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both _Prof._ [_Seung-Woo Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ) and _Prof._ [_Young-Jin Kim_](https://scholar.google.com/citations?user=DqkYhz4AAAAJ&hl=ko&oi=ao).
 
 * My current research interests are:
