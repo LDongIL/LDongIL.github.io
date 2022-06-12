@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout:post
 title: About Dong IL Lee
 
 ---
