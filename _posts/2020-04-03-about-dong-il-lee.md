@@ -21,7 +21,7 @@ title: About Dong IL Lee
   Korea Advanced Institute of Science & Technology. (KAIST), South Korea <br/>
 
 
-+ Advisor: _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com)
++ Advisor: _Prof._ [_Seung-Woo Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ) and _Prof._ [_Young-Jin Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ)
 + Main Research:
   + 1.8 km free-space phase-coherent optical link system design
   + Ultra-stable light source generation referenced to optical frequency comb
@@ -37,7 +37,7 @@ title: About Dong IL Lee
   Korea Advanced Institute of Science & Technology. (KAIST), South Korea (2020-2022) <br/>
   * Thesis: Precision Control of Propagating Laser Beam Over Long Free-space Paths for Realizing Phase-coherent Optical Link <br/>
   * Total GPA: 3.86/4.3 <br/>
-  * Advisor: _Prof._ [_Young-Jin Kim_](http://jekyllrb.com)
+  * Advisor: _Prof._ [_Young-Jin Kim_](https://scholar.google.com/citations?user=DqkYhz4AAAAJ&hl=ko&oi=ao)
     <br/><br/><br/>
 * __Bachelor of Mechanical Engineering__ <br/>
   Sungkyunkwan University. (SKKU), South Korea (2014-2020) <br/>
@@ -45,7 +45,7 @@ title: About Dong IL Lee
   * Total GPA: 3.99/4.5
   * <u>Undergraduate Researcher Funding Scholarship</u>
   * <u>Best Graduate Paper Award</u>
-  * Advisor: _Prof._ [_Dongwoo Lee_](http://jekyllrb.com) <br/>
+  * Advisor: _Prof._ [_Dongwoo Lee_](https://scholar.google.com/citations?hl=ko&user=efffEt0AAAAJ) <br/>
 
 <br/><br/>
 
