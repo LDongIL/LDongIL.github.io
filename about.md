@@ -2,6 +2,7 @@
 layout: page
 title: Research Projects
 ---
+## Main Projects
 
 ### **1. Comb-to-comb stabilization over 1.3-km free-space atmospheric optical link**
 <hr/>
@@ -36,5 +37,33 @@ title: Research Projects
 
 ![Result](https://LDongIL.github.io/assets/result.png)
 <center>Compensated environmental disturbance. pointing error comepensation(Left), Wavefront distortion compensation(Right)</center>
+<br/><br/><br/>
+
+### Other Projects involved
+<hr/>
+
+1.  **Ultra-precision Photonics based on Femtosecond Lasers – National Scientist Project**<br/><br/>
+&nbsp;&nbsp;National Research Foundation of Korea (2020-Present)<br/>
+&nbsp;&nbsp;- Development of free-space optical frequency transfer link system<br/>
+&nbsp;&nbsp;- Stabilization of ultra-stable light source referenced to a high-finesse cavity<br/>
 <br/>
+
+2.  **Development of Ultra-precision Optical Time/frequency Transfer over Long Free-space based on Optical Frequency Comb**<br/><br/>
+&nbsp;&nbsp;National Research Foundation of Korea<br/>
+&nbsp;&nbsp;- Design of phase compensation system for time/frequency transfer<br/>
+<br/>
+3.  **Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations**<br/><br/>
+&nbsp;&nbsp;Korea Institute of Science & Technology<br/>
+&nbsp;&nbsp;- Free-space channel design for optical communication system<br/>
+<br/>
+4. **Fast and Precise 3D Inspection for Heterogeneous Semiconductor Packaging**<br/><br/>
+&nbsp;&nbsp;INTEKPLUS Company, Korea<br/>
+&nbsp;&nbsp;- Design of multi-wavelength interferometry system for rapid/high-precision measurement<br/>
+<br/>
+5.  **Frequency-comb-referenced Multi-DOF Absolute Distance Measurement for Precision Control of Real-time Stage’s Position and Attitude**<br/><br/>
+&nbsp;&nbsp;National Research Foundation of Korea, Korea<br/>
+&nbsp;&nbsp;- Development of ultra-precision positioning system based on dual-comb technique<br/>
+<br/>
+
+
 
