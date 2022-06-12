@@ -4,7 +4,7 @@ title: About Dong IL Lee
 
 ---
 
-* I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both _Prof._ [_Seung-Woo Kim_](http://jekyllrb.com) and _Prof._ [_Young-Jin Kim_](http://jekyllrb.com).
+* I am a researcher associate in Department of Mechanical Engineering at Korea Institute Science and Technology (KAIST), advised by both _Prof._ [_Seung-Woo Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ) and _Prof._ [_Young-Jin Kim_](https://scholar.google.com/citations?user=DqkYhz4AAAAJ&hl=ko&oi=ao).
 
 * My current research interests are:
   + Generation of ultra-stable light sources for various applications:<br/>
