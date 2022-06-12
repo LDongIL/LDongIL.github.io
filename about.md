@@ -39,29 +39,32 @@ title: Research Projects
 <center>Compensated environmental disturbance. pointing error comepensation(Left), Wavefront distortion compensation(Right)</center>
 <br/><br/><br/>
 
-### Other Projects involved
+## Other Projects involved
 <hr/>
 
-1.  **Ultra-precision Photonics based on Femtosecond Lasers – National Scientist Project**<br/><br/>
-&nbsp;&nbsp;National Research Foundation of Korea (2020-Present)<br/>
+1.  **Ultra-precision Photonics based on Femtosecond Lasers – National Scientist Project**<br/>
+&nbsp;&nbsp;National Research Foundation of Korea (2020-Present)<br/><br/>
 &nbsp;&nbsp;- Development of free-space optical frequency transfer link system<br/>
 &nbsp;&nbsp;- Stabilization of ultra-stable light source referenced to a high-finesse cavity<br/>
 <br/>
 
-2.  **Development of Ultra-precision Optical Time/frequency Transfer over Long Free-space based on Optical Frequency Comb**<br/><br/>
-&nbsp;&nbsp;National Research Foundation of Korea<br/>
+2.  **Development of Ultra-precision Optical Time/frequency Transfer over Long Free-space based on Optical Frequency Comb**<br/>
+&nbsp;&nbsp;National Research Foundation of Korea (2020-Present)<br/><br/>
 &nbsp;&nbsp;- Design of phase compensation system for time/frequency transfer<br/>
 <br/>
-3.  **Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations**<br/><br/>
-&nbsp;&nbsp;Korea Institute of Science & Technology<br/>
+
+3. **Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations**<br/>
+&nbsp;&nbsp;Korea Institute of Science & Technology (2022-Present)<br/><br/>
 &nbsp;&nbsp;- Free-space channel design for optical communication system<br/>
 <br/>
-4. **Fast and Precise 3D Inspection for Heterogeneous Semiconductor Packaging**<br/><br/>
-&nbsp;&nbsp;INTEKPLUS Company, Korea<br/>
+
+4. **Fast and Precise 3D Inspection for Heterogeneous Semiconductor Packaging**<br/>
+&nbsp;&nbsp;INTEKPLUS Company, Korea (2021-Present)<br/><br/>
 &nbsp;&nbsp;- Design of multi-wavelength interferometry system for rapid/high-precision measurement<br/>
 <br/>
-5.  **Frequency-comb-referenced Multi-DOF Absolute Distance Measurement for Precision Control of Real-time Stage’s Position and Attitude**<br/><br/>
-&nbsp;&nbsp;National Research Foundation of Korea, Korea<br/>
+
+5.  **Frequency-comb-referenced Multi-DOF Absolute Distance Measurement for Precision Control of Real-time Stage’s Position and Attitude**<br/>
+&nbsp;&nbsp;National Research Foundation of Korea (2020-Present)<br/><br/>
 &nbsp;&nbsp;- Development of ultra-precision positioning system based on dual-comb technique<br/>
 <br/>
 
