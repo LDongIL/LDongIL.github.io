@@ -43,28 +43,28 @@ Randomly fluctuated beam spot is accumulated within Ø < 55 μm, 99.5% diminishe
 ## Other Projects involved
 <hr/>
 
-1.  **Ultra-precision Photonics based on Femtosecond Lasers – National Scientist Project**<br/>
+**1.  Ultra-precision Photonics based on Femtosecond Lasers – National Scientist Project**<br/>
 &nbsp;National Research Foundation of Korea - (2020-Present)<br/>
 &nbsp;&nbsp;◦ Development of free-space optical frequency transfer link system<br/>
 &nbsp;&nbsp;◦ Stabilization of ultra-stable light source referenced to a high-finesse cavity<br/>
 <br/>
 
-2.  **Development of Ultra-precision Optical Time/frequency Transfer over Long Free-space based on Optical Frequency Comb**<br/>
+**2.  Development of Ultra-precision Optical Time/frequency Transfer over Long Free-space based on Optical Frequency Comb**<br/>
 &nbsp;National Research Foundation of Korea - (2020-Present)<br/>
 &nbsp;&nbsp;◦ Design of phase compensation system for time/frequency transfer<br/>
 <br/>
 
-3. **Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations**<br/>
+**3. Space Communications with Multi-Mission Low-Earth-Orbit Satellite Constellations**<br/>
 &nbsp;Korea Institute of Science & Technology - (2022-Present)<br/>
 &nbsp;&nbsp;◦ Free-space channel design for optical communication system<br/>
 <br/>
 
-4. **Fast and Precise 3D Inspection for Heterogeneous Semiconductor Packaging**<br/>
+**4. Fast and Precise 3D Inspection for Heterogeneous Semiconductor Packaging**<br/>
 &nbsp;INTEKPLUS Company, Korea - (2021-Present)<br/>
 &nbsp;&nbsp;◦ Design of multi-wavelength interferometry system for rapid/high-precision measurement<br/>
 <br/>
 
-5.  **Frequency-comb-referenced Multi-DOF Absolute Distance Measurement for Precision Control of Real-time Stage’s Position and Attitude**<br/>
+**5.  Frequency-comb-referenced Multi-DOF Absolute Distance Measurement for Precision Control of Real-time Stage’s Position and Attitude**<br/>
 &nbsp;National Research Foundation of Korea - (2020-Present)<br/>
 &nbsp;&nbsp;◦ Development of ultra-precision positioning system based on dual-comb technique<br/>
 <br/>
