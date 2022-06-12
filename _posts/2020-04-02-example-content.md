@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: Example content
 ---
 
