@@ -77,4 +77,25 @@ title: About Dong IL Lee
 * __Chinese__ (Intermediate speaking) <br/>
   HSK level 6, ‘09, Lived in Beijing (China) for 3.5 Years
 
+<br/><br/>
+
+### References
+* **Young-Jin Kim (advisor)**<br/>
+&nbsp;&nbsp;Associate Professor, Mechanical Engineering, KAIST<br/>
+&nbsp;&nbsp;+82-42-350-3207<br/>
+&nbsp;&nbsp;yj.kim@kaist.ac.kr
+
+<br/>
+
+* **Seung-Woo Kim (advisor)**<br/>
+&nbsp;&nbsp;Professor, Mechanical Engineering, KAIST<br/>
+&nbsp;&nbsp;+82-42-350-3217<br/>
+&nbsp;&nbsp;swk@kaist.ac.kr
+
+<br/>
+
+*	**Dongwoo Lee**
+&nbsp;&nbsp;Assistant Professor, Mechanical Engineering, SKKU<br/>
+&nbsp;&nbsp;+82-31-290-7435<br/>
+&nbsp;&nbsp;dongwoolee@skku.edu
 
