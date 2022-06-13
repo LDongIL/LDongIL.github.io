@@ -79,7 +79,8 @@ title: About Dong IL Lee
 
 <br/><br/>
 
-### References
+### REFERENCES
+
 * **Young-Jin Kim (advisor)**<br/>
 &nbsp;&nbsp;Associate Professor, Mechanical Engineering, KAIST<br/>
 &nbsp;&nbsp;+82-42-350-3207<br/>
