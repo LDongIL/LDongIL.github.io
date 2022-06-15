@@ -66,6 +66,22 @@ title: About Dong IL Lee
 
 <br/><br/>
 
+### SKILLS & TECHNIQUES
+* **Experimental Technique:**<br/>
+  * Laser source stabilization – Pound-Drever-Hall technique (PDH technique), Phase-locked loop (PLL control)
+  * RF signal generation – optical frequency division (OFD) 
+  * Fiber-based femtosecond laser operation 
+  * Adaptive optics system operation
+  * Dual-comb technique
+  * Fiber splicing, EDFA design. 
+  * Long-range (~1.8 Km) transceiver alignment
+  * phase noise/Allan-deviation measurement.
+
+* **Software:**<br/>
+  * MATLAB, LabView, 3D modeling - Autodesk Inventor/Fusion360
+
+<br/><br/>
+
 ### LANGUAGES
 * __Korean__ (Native) <br/>
 
