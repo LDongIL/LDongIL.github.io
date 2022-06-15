@@ -43,12 +43,12 @@ title: About Dong IL Lee
     <br/><br/><br/>
 * __Bachelor of Mechanical Engineering__ <br/>
   Sungkyunkwan University. (SKKU), South Korea (2014-2020) <br/>
+  (Note: military service during July 2015 to July 2017)
   * Thesis: Electrical Properties Measurements of Thin Films using Electrical Impedance Tomography
   * Total GPA: 3.99/4.5
   * <u>Undergraduate Researcher Funding Scholarship</u>
   * <u>Best Graduate Paper Award</u>
   * Advisor: _Prof._ [_Dongwoo Lee_](https://scholar.google.com/citations?hl=ko&user=efffEt0AAAAJ) <br/>
-
 <br/><br/>
 
 ### HONORS & REWARDS
