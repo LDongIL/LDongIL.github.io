@@ -28,6 +28,11 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;J. W. Yang, **_<u>D. I. Lee</u>_**, D.-C Shin, J. H, Lee, Y.-J Kim*, and S.-W. Kim*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_2022 Conference on Lasers and Electro-Optics (CLEO)_**, San Jose, CA, USA, May, 2022 (Oral).
 
+
+**3. Optical Frequency Comb Stabilization to a Distant Frequency Reference**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;J. W. Yang, D. I. Lee, D.-C Shin, Y.-J Kim*, and S.-W. Kim*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**_The 11th Advanced Lasers and Photon Sources (ALPS2022)_**, Japan, Apr, 2022 (Oral).
+
 <br/><br/>
 
 ## Domestic conference
