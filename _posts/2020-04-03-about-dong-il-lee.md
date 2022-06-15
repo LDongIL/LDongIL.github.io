@@ -95,7 +95,7 @@ title: About Dong IL Lee
 
 <br/>
 
-*	**Dongwoo Lee**
+*	**Dongwoo Lee**<br/>
 &nbsp;&nbsp;Assistant Professor, Mechanical Engineering, SKKU<br/>
 &nbsp;&nbsp;+82-31-290-7435<br/>
 &nbsp;&nbsp;dongwoolee@g.skku.edu
