@@ -8,7 +8,7 @@ title: "Publications"
 
 **1. Frequency Comb-to-comb Stabilization over a 1.3-km Free-space Atmospheric Optical Link**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;J. W. Yang, **_<u>D. I. Lee</u>_**, D. -C. Shin, J. H. Lee, B. S Kim, Y. -J. Kim, and S. -W. Kim<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;**_LIGHT: SCIENCE & APPLICATIONS_**, 2022 – Accepted **_(IF:17.728)_**
+&nbsp;&nbsp;&nbsp;&nbsp;**_NATURE｜LIGHT: SCIENCE & APPLICATIONS_**, 2022 – Accepted **_(IF:17.728)_**
 
 **2. Resolving Spectrum Shortage for Operating Future Military Systems**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;G. -U. Kim, **_<u>D. I. Lee</u>_**, S. H. Cho, and B. H. Yang<br/>
