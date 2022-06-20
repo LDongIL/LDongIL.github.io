@@ -20,7 +20,7 @@ title: Research Projects
 <center>Single sideband (SSB) phase noise spectra of frequencies; Applications based on stabilized remote comb: Molecular absorption spectroscopy, Microwave generation </center>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and now is accepted in _**LIGHT: SCIENCE & APPLICATIONS**_
+&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and is now accepted in _**NATURE｜LIGHT: SCIENCE & APPLICATIONS**_
 
 <br/>
 <br/>
