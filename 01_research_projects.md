@@ -30,12 +30,12 @@ title: Research Projects
 <hr/>
 &nbsp;&nbsp;&nbsp;&nbsp;Maintaining a stable optical beam path and quality is essential for various photonic applications such as metrology, timing and clock, and telecommunication. While seamless and high-quality connectivity determines the performance of the achievements, naturally propagating optical beam inevitably encounters spatial and temporal noises. Here, we propose a combined feedback system based on three different techniques: pointing, acquisition, tracking (PAT), wavefront compensation, and phase noise compensation. Acquiring a stable beam position with the PAT system, beam quality is enhanced with the feedback systems followed. The combined feedback system is evaluated under imitated atmospheric turbulent conditions, verifying its performance even under harsh environments. 
 
-
+![Result](https://LDongIL.github.io/assets/result.png)
+<center>Compensated environmental disturbance. pointing error comepensation (Left), Wavefront distortion compensation (Right)</center>
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Randomly fluctuated beam spot is accumulated within Ø < 55 μm, 99.5% diminished fluctuation. Furthermore, the Zernike coefficient of wavefront compensated up to 96% of distortion simultaneously. With such result, we verified our optical feedback system can be utilized to facilitate diverse photonic applications from micro to macro scale
 
-![Result](https://LDongIL.github.io/assets/result.png)
-<center>Compensated environmental disturbance. pointing error comepensation (Left), Wavefront distortion compensation (Right)</center>
 <br/><br/><br/>
 
 ## Other Projects involved
