@@ -25,7 +25,7 @@ title: About Dong IL Lee
 
 + Advisor: _Prof._ [_Seung-Woo Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ) and _Prof._ [_Young-Jin Kim_](https://scholar.google.com/citations?hl=ko&user=wHt0GtQAAAAJ)
 + Main Research:
-  + 1.8 km free-space phase-coherent optical link system design
+  + 1.3 km free-space phase-coherent optical link system design
   + Ultra-stable light source generation referenced to optical frequency comb
   + Second-harmonic generation for optical frequency transfer
   + Precise beam position/wavefront control system
