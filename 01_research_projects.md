@@ -20,8 +20,8 @@ title: Research Projects
 <center> Applications based on stabilized remote comb: Molecular absorption spectroscopy and microwave generation </center>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and is now accepted in _**NATURE｜LIGHT: SCIENCE & APPLICATIONS**_<hr/>
-https://doi.org/10.1038/s41377-022-00940-3
+&nbsp;&nbsp;&nbsp;&nbsp;The research above is being presented in conference paper as an co-author, and is now accepted in _**NATURE｜LIGHT: SCIENCE & APPLICATIONS**_<br/>
+DOI: https://doi.org/10.1038/s41377-022-00940-3
 
 <br/>
 <br/>
