@@ -6,6 +6,12 @@ title: "Publications"
 ## Refereed Journal Publications
 <hr/>
 
+**1. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1.	W. Wang*, H. Liu, J. Wua, J. F. McMillana, D. I. Lee*, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, M. Yu, P. G.-Q Lo, D.-L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:20.257)_** <br/>
+
+
+
 **1. Frequency Comb-to-comb Stabilization over a 1.3-km Free-space Atmospheric Optical Link**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;J. W. Yang, **_<u>D. I. Lee</u>_**, D. -C. Shin, J. H. Lee, B. S Kim, Y. -J. Kim, and S. -W. Kim<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_NATURE｜LIGHT: SCIENCE & APPLICATIONS_**, 2022 – Accepted **_(IF:20.257)_** <br/>
