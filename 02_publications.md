@@ -19,7 +19,8 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang\*, **_<u>D. I. Lee</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Optics Express_**, 2025 – Submitted **_(IF:3.2)_** <br/>
 
-**4. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement in heterogeneous &nbsp;&nbsp;&nbsp;&nbsp;semiconductor packaging**<br/>
+**4. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; in heterogeneous semiconductor packaging**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;J. H. Park, D. H. Kim, H. H. Chu, J. W. Hahm, G. S. Kang, **_<u>D. I. Lee</u>_**, S. Song, M. Kang, S.-W. Kim, and Y.-J Kim\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Nanophotonics_**, 2024 – Accepted **_(IF:6.5)_** <br/>
 
