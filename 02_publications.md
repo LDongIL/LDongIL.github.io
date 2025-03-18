@@ -30,7 +30,8 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;**_Photonics Research_**, 2024 **_(IF:6.6)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1364/PRJ.521282<br/>
 
-**6. Mapping ultrafast timing jitter in dispersion-managed 89 GHz frequency microcombs via self-heterodyne linear interferometry**<br/>
+**6. Mapping ultrafast timing jitter in dispersion-managed 89 GHz frequency microcombs via self-heterodyne <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;linear interferometry**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang, H. Liu, J. Yang, A. K. Vinod, J. Lim, Y. -S Jang, H. Zhou, M. Yu, P. G.-Q Lo, D. -L Kwong, P. DeVore, J. Chou, A. Aldhafeeri,  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_<u>D. I. Lee</u>_**, W. Liu and Chee Wei Wong\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Advanced Photonics Nexus_**, 2024 - Under Review <br/>
