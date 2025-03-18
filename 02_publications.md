@@ -1,4 +1,3 @@
----
 layout: page
 title: "Publications"
 ---
@@ -7,7 +6,7 @@ title: "Publications"
 <hr/>
 
 **1. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;W. Wang*, H. Liu, J. Wua, J. F. McMillana, **_<u>D. I. Lee\*</u>_**, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, M. Yu, P. G.-Q Lo, D.-&nbsp;&nbsp;&nbsp;&nbsp;L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;W. Wang*, H. Liu, J. Wua, J. F. McMillana, _<u>**D. I. Lee***</u>, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, M. Yu, P. G.-Q Lo, D.-&nbsp;&nbsp;&nbsp;&nbsp;L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:27.2)_** <br/>
 
 **2. Remote picometric acoustic sensing via ultrastable laser homodyne interferometry**<br/>
