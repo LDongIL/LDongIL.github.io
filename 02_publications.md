@@ -17,7 +17,7 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.48550/arXiv.2411.06658<br/>
 
 **3. Probing linewidth dynamics with short-time delayed linear interferometer in integrated frequency microcombs**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;W. Wang\*, **_<u>D. I. Lee</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;W. Wang\*, **_<u>D. I. Lee*</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Optics Express_**, 2025 – Submitted **_(IF:3.2)_** <br/>
 
 **4. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement <br/>
