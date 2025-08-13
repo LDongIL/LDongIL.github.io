@@ -4,8 +4,11 @@ title: "Contact"
 ---
 
 <hr/>
+**PhD Candidate** at <br/>
+&nbsp;&nbsp;◦ [Mesoscopic Optics and Quantum Electronics Laboratory](http://oqe.ee.ucla.edu/) <br/>
 
-**Technical Researcher** at <br/>
+
+**Technical Researcher** at <br/> (old)
 &nbsp;&nbsp;◦ [Labaratory for Precision Engineering and Metrology (PEM)](https://pem.kaist.ac.kr/) <br/>
 &nbsp;&nbsp;◦ [Ultra-Precision Metrology and Manufacturing (UPM2) Laboratory](https://upm2.kaist.ac.kr/) <br/><br/>
 Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
