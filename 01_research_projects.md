@@ -11,7 +11,7 @@ title: Research Projects
 
 ### **3. Microcomb based optical free-space Tbp/s communication**
 
-### **4. Characterizing high-frequency Frequency microcombs and phase/frequency noise and stability evaluation using interferometry**
+### **4. Characterizing high-frequency frequency microcombs and phase/frequency noise and stability evaluation using optical interferometry**
 
 
 
