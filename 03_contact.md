@@ -7,7 +7,7 @@ title: "Contact"
 
 **PhD Candidate** at <br/>
 &nbsp;&nbsp;◦ [Mesoscopic Optics and Quantum Electronics Laboratory](http://oqe.ee.ucla.edu/) <br/>
-
+Room 56-147D, 420 Westwood Plaza, Los Angeles, CA 90095. <br/> 
 
 **Technical Researcher** at (old) <br/> 
 &nbsp;&nbsp;◦ [Labaratory for Precision Engineering and Metrology (PEM)](https://pem.kaist.ac.kr/) <br/>
