@@ -7,6 +7,7 @@ title: "Contact"
 
 **PhD Candidate** at <br/>
 &nbsp;&nbsp;◦ [Mesoscopic Optics and Quantum Electronics Laboratory](http://oqe.ee.ucla.edu/) <br/>
+&nbsp;&nbsp; dilee@ucla.edu <br/>
 Room 56-147D, 420 Westwood Plaza, Los Angeles, CA 90095. <br/><br/> 
 
 **Technical Researcher** at (old) <br/> 
@@ -18,4 +19,4 @@ ME building(N7-2) 2206, KAIST, 335 Gwahak-ro(373-1 Guseong-dong), Yuseong-gu, Da
 * Email: ehddlf94@gmail.com
 * Tel: +1-310-709-3545 / +82-10-5772-1132
 
-![logo](https://ldongil.github.io/assets/logo.png)
+![logo](https://ldongil.github.io/assets/logos.png)
