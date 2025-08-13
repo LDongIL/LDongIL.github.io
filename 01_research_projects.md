@@ -5,13 +5,13 @@ title: Research Projects
 
 ## Main Projects at UCLA
 
-### **1. Silicon integrated photonics based OPO generation for THz sources
+### **1. Silicon integrated photonics based OPO generation for THz sources**
 
-### **2. Ultrastable optical-to-microwave frequency transfer via free-space channel using soliton microcomb
+### **2. Ultrastable optical-to-microwave frequency transfer via free-space channel using soliton microcomb**
 
-### **3. Microcomb based optical free-space Tbp/s communication
+### **3. Microcomb based optical free-space Tbp/s communication**
 
-### **4. Characterizing high-frequency Frequency microcombs and phase/frequency noise and stability evaluation using interferometry 
+### **4. Characterizing high-frequency Frequency microcombs and phase/frequency noise and stability evaluation using interferometry**
 
 
 
