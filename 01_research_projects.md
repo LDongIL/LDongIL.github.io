@@ -7,7 +7,7 @@ title: Research Projects
 
 ### **1. Silicon photonics based OPO generation for THz sources
 
-### **2. Ultrastable optical-to-microwave frequency transfer via free-space channel
+### **2. Ultrastable optical-to-microwave frequency transfer via free-space channel using soliton microcomb
 
 
 
