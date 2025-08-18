@@ -12,8 +12,6 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:27.2)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1186/s43593-025-00082-0<br/>
 
-
-
 **2. Remote picometric acoustic sensing via ultrastable laser homodyne interferometry**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Y.-S Jang†\*, **_<u>D. I. Lee</u>_**, J. F. Flores, W. Wang, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Advanced Photonics Nexus_**, 2025 **_(IF:6)_**<br/>
@@ -22,6 +20,7 @@ title: "Publications"
 **3. Probing linewidth dynamics with short-time delayed linear interferometer in integrated frequency microcombs**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, **_<u>D. I. Lee†</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Optics Express_**, 2025 **_(IF:3.2)_** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1364/OE.558703<br/>
 
 **4. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; in heterogeneous semiconductor packaging**<br/>
