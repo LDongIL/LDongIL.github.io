@@ -6,6 +6,16 @@ title: "Publications"
 ## Refereed Journal Publications
 <hr/>
 
+**1. Compact, robust all-fiber platform for 1-Hz-linewidth synchronization of optical frequency combs using single comb line extraction**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Dong-Chel Shin, Jaewon Yang, Dong IL Lee, Guseon Kang, Seung-Woo Kim, Young-Jin Kim <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Optics & Laser Technology**, 2026 **_(IF:5.2)_** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;DOI: 10.1016/j.optlastec.2026.115526
+
+**1. High-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Kai-Chi Chang, Murat Can Sarihan, Nicky Kai Hong Li, Florian Kanitschar, Kemal Enes Akyuz, Yujie Chen, Dong-Il Lee, Jin Ho Kang, Alwaleed Aldhafeeri, Andrew Mueller, Matthew D Shaw, Boris Korzh, Maria Spiropulu, Paul Erker, Marcus Huber, Chee Wei Wong <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Science Advances**, 2026 **_(IF:13.9)_** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
+
 **1. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee* </u>_**, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;M. Yu, P. G.-Q. Lo, D.-L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong\*<br/>
