@@ -18,7 +18,7 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
 
 **3. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee</u>_**, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee†</u>_**, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;M. Yu, P. G.-Q. Lo, D.-L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong\*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:32.1)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1186/s43593-025-00082-0<br/>
