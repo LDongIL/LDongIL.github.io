@@ -7,12 +7,13 @@ title: "Publications"
 <hr/>
 
 **1. Compact, robust all-fiber platform for 1-Hz-linewidth synchronization of optical frequency combs using single comb line extraction**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Dong-Chel Shin, Jaewon Yang, **_<u>Dong IL Lee* </u>_**, Guseon Kang, Seung-Woo Kim, Young-Jin Kim <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Dong-Chel Shin, Jaewon Yang, **_<u>Dong IL Lee* </u>_**, Guseon Kang, Seung-Woo Kim,and Young-Jin Kim <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Optics & Laser Technology**, 2026 **_(IF:5.2)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: 10.1016/j.optlastec.2026.115526
 
 **2. High-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Kai-Chi Chang, Murat Can Sarihan, Nicky Kai Hong Li, Florian Kanitschar, Kemal Enes Akyuz, Yujie Chen, **_<u>Dong-Il Lee</u>_**, Jin Ho Kang, Alwaleed Aldhafeeri, Andrew Mueller, Matthew D Shaw, Boris Korzh, Maria Spiropulu, Paul Erker, Marcus Huber, Chee Wei Wong <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Kai-Chi Chang, Murat Can Sarihan, Nicky Kai Hong Li, Florian Kanitschar, Kemal Enes Akyuz, Yujie Chen, **_<u>Dong-Il Lee</u>_**, <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Jin Ho Kang, Alwaleed Aldhafeeri, Andrew Mueller, Matthew D Shaw, Boris Korzh, Maria Spiropulu, Paul Erker, Marcus Huber, Chee Wei Wong <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Science Advances**, 2026 **_(IF:13.9)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
 
