@@ -14,7 +14,7 @@ title: "Publications"
 **2. High-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Kai-Chi Chang, Murat Can Sarihan, Nicky Kai Hong Li, Florian Kanitschar, Kemal Enes Akyuz, Yujie Chen, **_<u>Dong-Il Lee</u>_**, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Jin Ho Kang, Alwaleed Aldhafeeri, Andrew Mueller, Matthew D Shaw, Boris Korzh, Maria Spiropulu, Paul Erker, Marcus Huber,<br/> 
-&nbsp;&nbsp;&nbsp;&nbsp; and Chee Wei Wong <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and Chee Wei Wong <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Science Advances**, 2026 **_(IF:13.9)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
 
