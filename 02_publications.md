@@ -6,58 +6,58 @@ title: "Publications"
 ## Refereed Journal Publications
 <hr/>
 
-**1. Compact, robust all-fiber platform for 1-Hz-linewidth synchronization of optical frequency combs using single comb line extraction**<br/>
+**10. Compact, robust all-fiber platform for 1-Hz-linewidth synchronization of optical frequency combs using single comb line extraction**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Dong-Chel Shin, Jaewon Yang, **_<u>Dong IL Lee </u>_**, Guseon Kang, Seung-Woo Kim,and Young-Jin Kim <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Optics & Laser Technology**, 2026 **_(IF:5.2)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: 10.1016/j.optlastec.2026.115526
 
-**2. High-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
+**9. High-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Kai-Chi Chang, Murat Can Sarihan, Nicky Kai Hong Li, Florian Kanitschar, Kemal Enes Akyuz, Yujie Chen, **_<u>Dong-Il Lee</u>_**, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Jin Ho Kang, Alwaleed Aldhafeeri, Andrew Mueller, Matthew D Shaw, Boris Korzh, Maria Spiropulu, Paul Erker, Marcus Huber,<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;and Chee Wei Wong <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Science Advances**, 2026 **_(IF:13.9)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
 
-**3. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
+**8. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee</u>_**†, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;M. Yu, P. G.-Q. Lo, D.-L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong\*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:32.1)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1186/s43593-025-00082-0<br/>
 
-**4. Remote picometric acoustic sensing via ultrastable laser homodyne interferometry**<br/>
+**7. Remote picometric acoustic sensing via ultrastable laser homodyne interferometry**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Y.-S Jang†\*, **_<u>D. I. Lee</u>_**, J. F. Flores, W. Wang, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Advanced Photonics Nexus_**, 2025 **_(IF:6)_**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1117/1.APN.4.4.046006<br/>
 
-**5. Probing linewidth dynamics with short-time delayed linear interferometer in integrated frequency microcombs**<br/>
+**6. Probing linewidth dynamics with short-time delayed linear interferometer in integrated frequency microcombs**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, **_<u>D. I. Lee†</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Optics Express_**, 2025 **_(IF:3.2)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1364/OE.558703<br/>
 
-**6. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement <br/>
+**5. Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; in heterogeneous semiconductor packaging**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;J. H. Park†, D. H. Kim†, H. H. Chu, J. W. Hahm, G. S. Kang, **_<u>D. I. Lee</u>_**, S. Song, M. Kang, S.-W. Kim, and Y.-J Kim\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Nanophotonics_**, 2024 **_(IF:6.5)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1515/nanoph-2024-0578<br/>
 
-**7. Low phase noise K-band signal generation using polarization diverse single-soliton integrated microcombs**<br/>
+**4. Low phase noise K-band signal generation using polarization diverse single-soliton integrated microcombs**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;A. Aldhafeeri†*, H.-H Chin, T. Melton, **_<u>D. I. Lee</u>_**, A. Chu, W. Wang, M. Yu, P. G.-Q Lo, D.-L. Kwong, and C. W. Wong\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Photonics Research_**, 2024 **_(IF:6.6)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1364/PRJ.521282<br/>
 
-**8. Mapping ultrafast timing jitter in dispersion-managed 89 GHz frequency microcombs via self-heterodyne <br/>
+**3. Mapping ultrafast timing jitter in dispersion-managed 89 GHz frequency microcombs via self-heterodyne <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;linear interferometry**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;W. Wang†, H. Liu†, J. Yang, A. K. Vinod, J. Lim, Y. -S Jang, H. Zhou, M. Yu, P. G.-Q Lo, D. -L Kwong, P. DeVore, J. Chou, A. Aldhafeeri,  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_<u>D. I. Lee</u>_**, W. Liu and Chee Wei Wong\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Advanced Photonics Nexus_**, 2024 - Under Review <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.48550/arXiv.2108.01177<br/>
 
-**9. Frequency Comb-to-comb Stabilization over a 1.3-km Free-space Atmospheric Optical Link**<br/>
+**2. Frequency Comb-to-comb Stabilization over a 1.3-km Free-space Atmospheric Optical Link**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;J. W. Yang†, **_<u>D. I. Lee</u>_**, D. -C. Shin, J. H. Lee, B. S Kim, Y. -J. Kim\*, and S. -W. Kim\*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_NATURE｜LIGHT: SCIENCE & APPLICATIONS_**, 2022 **_(IF:20.257)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1038/s41377-022-00940-3
 
-**10. Resolving Spectrum Shortage for Operating Future Military Systems**<br/>
+**1. Resolving Spectrum Shortage for Operating Future Military Systems**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;G. -U. Kim, **_<u>D. I. Lee</u>_**, S. H. Cho, and B. H. Yang<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_JOURNAL OF THE MILITARY OPERATIONS RESEARCH SOCIETY OF KOREA_**, 2022
 
