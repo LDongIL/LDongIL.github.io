@@ -10,7 +10,7 @@ title: "Contact"
 
 Room 56-147D, 420 Westwood Plaza, Los Angeles, CA 90095. <br/><br/> 
 
-**Technical Researcher** at (old) <br/> 
+**Master student** at (old) <br/> 
 &nbsp;&nbsp;◦ [Labaratory for Precision Engineering and Metrology (PEM)](https://pem.kaist.ac.kr/) <br/>
 &nbsp;&nbsp;◦ [Ultra-Precision Metrology and Manufacturing (UPM2) Laboratory](https://upm2.kaist.ac.kr/) <br/><br/>
 Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
