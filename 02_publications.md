@@ -19,7 +19,7 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: arXiv:2603.18212v1
 
 **8. Free-space terabit/s coherent optical links via platicon frequency microcombs**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee</u>_**†, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, H. Liu†, J. Wua†, J. F. McMillana†, **_<u>D. I. Lee†</u>_**, F. Hu, W Liu, J. Yang, H. Yang, A. K. Vinod, Y. H. Ezzeldin, C. Fragouli, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;M. Yu, P. G.-Q. Lo, D.-L. Kwong, D. S. Kahrs, N. Zhu, and C. W. Wong\*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_eLight_**, 2025 **_(IF:32.1)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1186/s43593-025-00082-0<br/>
@@ -30,7 +30,7 @@ title: "Publications"
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1117/1.APN.4.4.046006<br/>
 
 **6. Probing linewidth dynamics with short-time delayed linear interferometer in integrated frequency microcombs**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, **_<u>D. I. Lee†</u>_**, W. Liu, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;W. Wang†\*, **_<u>D. I. Lee†</u>_**, W. Liu†, M. Yu, D.-L. Kwong, N. Zhu, and C. W. Wong* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_Optics Express_**, 2025 **_(IF:3.2)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;DOI: https://doi.org/10.1364/OE.558703<br/>
 
