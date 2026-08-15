@@ -6,6 +6,11 @@ title: "Publications"
 ## Refereed Journal Publications
 <hr/>
 
+**11. Spectral purification and turnkey generation of polarization-diverse soliton microcomb**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Alwaleed Aldhafeeri, Wenting Wang\*, Tristan Melton, **_<u>Dong IL Lee </u>_**, and Chee Wei Wong <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Physical Review Applied**, 2026 **_(IF:4.4)_** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(submitted) DOI: 
+
 **10. Compact, robust all-fiber platform for 1-Hz-linewidth synchronization of optical frequency combs using single comb line extraction**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Dong-Chel Shin, Jaewon Yang, **_<u>Dong IL Lee </u>_**, Guseon Kang, Seung-Woo Kim,and Young-Jin Kim <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Optics & Laser Technology**, 2026 **_(IF:5.2)_** <br/>
