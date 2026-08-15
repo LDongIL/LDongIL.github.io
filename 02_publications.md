@@ -7,7 +7,7 @@ title: "Publications"
 <hr/>
 
 **11. Spectral purification and turnkey generation of polarization-diverse soliton microcomb**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Alwaleed Aldhafeeri, Wenting Wang\*, Tristan Melton, **_<u>Dong IL Lee </u>_**, and Chee Wei Wong <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Alwaleed Aldhafeeri†, Wenting Wang\*, Tristan Melton, **_<u>Dong IL Lee </u>_**, and Chee Wei Wong <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Physical Review Applied**, 2026 **_(IF:4.4)_** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;(submitted) DOI: 
 
