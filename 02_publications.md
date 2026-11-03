@@ -6,18 +6,13 @@ title: "Publications"
 ## Refereed Journal Publications
 <hr/>
 
-**12. Reconfigurable multi-tone mmWave/THz generation powered by high-efficiency Kerr parametric oscillation**<br/>
+**13. Reconfigurable multi-tone mmWave/THz generation powered by high-efficiency Kerr parametric oscillation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_<u>Dong IL Lee</u>_**†,\*, Fanqi Shen†, Wenzheng Liu, Xinghe Jiang, Anika Tabassum, Alwaleed Aldhafeeri, Manas Choure, Jasmine Lu, Mona Jarrahi\*, and Chee Wei Wong\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**eLight**, 2026 **_(IF:32.1)_** *(Submitted)* <br/>
 
-**13. Passive stress relaxation enabling deployable, navigation-grade micro-g optomechanical accelerometers**<br/>
+**12. Passive stress relaxation enabling deployable, navigation-grade micro-g optomechanical accelerometers**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Matthew Guibord\*, Alexiy Samoylov, Talha Yerebakan, **_<u>Dong IL Lee</u>_**, Peter Mazin, and Chee Wei Wong\* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Microsystems & Nanoengineering**, 2026 **_(IF:11.1)_** *(Submitted)* <br/>
-
-**12. Unlocking the potential of high-dimensional quantum communication with scalable photonic entanglement in time and frequency**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Alwaleed Aldhafeeri†, Wenting Wang\*, Tristan Melton, **_<u>Dong IL Lee </u>_**, and Chee Wei Wong <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;**Physical Review Applied**, 2026 **_(IF:4.4)_** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(submitted) DOI: 
 
 **11. Spectral purification and turnkey generation of polarization-diverse soliton microcomb**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Alwaleed Aldhafeeri†, Wenting Wang\*, Tristan Melton, **_<u>Dong IL Lee </u>_**, and Chee Wei Wong <br/>
