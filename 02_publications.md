@@ -8,7 +8,7 @@ title: "Publications"
 
 **13. Reconfigurable multi-tone mmWave/THz generation powered by high-efficiency Kerr parametric oscillation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**_<u>Dong IL Lee</u>_**†,\*, Fanqi Shen†, Wenzheng Liu, Xinghe Jiang, Anika Tabassum, Alwaleed Aldhafeeri, Manas Choure, Jasmine Lu, Mona Jarrahi\*, and Chee Wei Wong\* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;**eLight**, 2026 **_(IF:32.1)_** *(Submitted)* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 2026 *(Submitted)* <br/>
 
 **12. Passive stress relaxation enabling deployable, navigation-grade micro-g optomechanical accelerometers**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Matthew Guibord\*, Alexiy Samoylov, Talha Yerebakan, **_<u>Dong IL Lee</u>_**, Peter Mazin, and Chee Wei Wong\* <br/>
